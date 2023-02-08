@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+#      uri: ${host}
+      uri: ${host2}
